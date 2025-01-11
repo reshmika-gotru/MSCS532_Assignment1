@@ -13,6 +13,6 @@ def decreasing_insertion_sort(ar):
         ar[j + 1] = key
 
 # Sample Test:
-ar = [27,60,16,7,10,89,1000,75,41,-1500,0,-90,3.5,20.7]
+ar = [27,5!,60,16,7,10,89,1000,75,41,-1500,0,-90,3.5,20.7]
 decreasing_insertion_sort(ar)
 print("Decreasing Order of Sorted Array:", ar)
